@@ -32,18 +32,18 @@ Uvicorn - Run the application server
 
 Local Setup
 1. Clone the repository
-   git clone https://github.com/<your-username>/aurora-member-qa.git
+   git clone https://github.com/siddharthranjan456/aurora_assessment.git
    cd aurora-member-qa
 
-2. Install dependencies
+3. Install dependencies
    pip install -r requirements.txt
 
-3. Run locally
+4. Run locally
    python main.py
    or
    uvicorn main:app --reload
 
-4. Open in browser
+5. Open in browser
    Swagger UI: http://127.0.0.1:8000/docs
    Example query: http://127.0.0.1:8000/ask?question=What%20are%20Amira%27s%20favorite%20restaurants
 
@@ -87,12 +87,10 @@ Build Command: pip install -r requirements.txt
 Start Command: uvicorn main:app --host 0.0.0.0 --port 8000
 
 Example public URL:
-https://aurora-qa-service.onrender.com/ask?question=When%20is%20Layla%20planning%20her%20trip%20to%20London
+https://aurora-assessment.onrender.com/ask?question=When%20is%20Layla%20planning%20her%20trip%20to%20London
 
-Requirements.txt
-fastapi
-uvicorn
-requests
+
+
 
 Author
 Siddharth Ranjan
