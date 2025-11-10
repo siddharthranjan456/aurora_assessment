@@ -94,5 +94,5 @@ https://aurora-assessment.onrender.com/ask?question=When%20is%20Layla%20planning
 
 Author
 Siddharth Ranjan
-Email: Siddharth.ranjan2001@gmail.com
+Email: siddharth.ranjan2001@gmail.com
 LinkedIn:- https://www.linkedin.com/in/mr-siddharth-ranjan/
